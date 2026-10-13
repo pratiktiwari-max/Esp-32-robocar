@@ -1,6 +1,7 @@
 # ESP32-Based Multi-Mode Robot Car
 
 An ESP32-based robotic car developed with three operating modes: **Line Following, Wall Following, and Manual Bluetooth Control**. The project combines embedded programming, sensor integration, motor control, and basic autonomous navigation.
+<img width="2400" height="1920" alt="robocar_circuit_diagram" src="https://github.com/user-attachments/assets/e513c93f-1180-4cc8-aaf7-ff7faa100266" />
 
 ## 🚗 Project Overview
 
